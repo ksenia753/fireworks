@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: RosyBrown;
+}
+
+body h1{
+    text-align: center;
+    background-color: DarkSlateBlue;
+
+}
+footer {
+    background-color:rosybrown ;
+    text-align: center;
+    border: 5px solid rosybrown;
+}
+
+footer p {
+    background-color: seashell;
+}
+
+nav {
+    text-align: center;
+    
+}
+
+nav a {
+    border: 1px solid black;
+    text-decoration: none;
+    background-color: DarkSlateBlue;
+    color: rgb(255, 255, 255);
+
+}
+
+.reg {
+    width: 608px;
+    height: 350px;
+}
+
+.green {
+   width: 608px; 
+}
+
+header {
+    text-align: center;
+}
+
+.basket {
+     text-align: center;
+ }
+
+.text {
+     text-align: center;
+     background-color:DarkSlateBlue;
+}
+
+ h2 {
+    border: 1px solid black;
+    text-decoration: none;
+    background-color: DarkSlateBlue;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
